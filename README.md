@@ -22,7 +22,7 @@
 
 ## Contacts <a name = "contacts"></a>
 
-- <li><a href="mailto:luke.screwdriver@gmail.com">Email</li>
+- [Mail](mailto:luke.screwdriver@gmail.com)
 - [Twitter](https://twitter.com/LukeScrewdriver)
 
 
