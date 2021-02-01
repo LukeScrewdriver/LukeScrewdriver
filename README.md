@@ -1,5 +1,5 @@
 Hi im LukeScrewdriver, i like programming and made things with my 3D printer.<br>
-I have a diploma in maintenance and technical assistance in 2019.<br>
+I have a diploma in maintenance and technical assistance (achieved in 2019).<br>
 
 Below I leave other information about myself.
 
