@@ -6,6 +6,7 @@ Below I leave other information about myself.
 
 - [Hobby](#hobby)
 - [Language programming](#lang_prog)
+- [Programs used](#programs)
 - [Organizations](#org)
 - [Repositories](https://github.com/LukeScrewdriver?tab=repositories)
 - [Contacts](#contacts)
@@ -30,6 +31,17 @@ Below I leave other information about myself.
 - SCL - Siemens PLC
 - Ladder - Siemens PLC
 
+
+## ⭐ Programs used <a name = "programs"></a>
+
+- Visual Studio
+- Visual Studio Code
+- Arduino IDE
+- Tia portal
+- Autocad
+- Inventor
+- Github desktop
+- Putty
 
 ## 💾 Organizations <a name = "org"></a>
 
