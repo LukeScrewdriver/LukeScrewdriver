@@ -14,6 +14,7 @@ Below I leave other information about myself.
 ## ⚙️ Hobby <a name = "hobby"></a>
 
 - Programming
+- Listen music
 - Home automation
 - Swimming
 - 2D/3D design
