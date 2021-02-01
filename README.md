@@ -22,10 +22,10 @@
 
 ## Contacts <a name = "contacts"></a>
 
-- [Mail](luke.screwdriver@gmail.com)
+- <li><a href="mailto:luke.screwdriver@gmail.com">Email</a></li>
 - [Twitter](https://twitter.com/LukeScrewdriver)
 
 
-## Organozations <a name = "org"></a>
+## Organizations <a name = "org"></a>
 
 - [PhoenixPixel](https://github.com/phoenixpixel-it)
