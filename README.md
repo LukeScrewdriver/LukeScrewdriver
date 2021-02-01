@@ -1,6 +1,7 @@
-Hi im LukeScrewdriver,<br>
+Hi👋 im LukeScrewdriver,<br>
 im from Italy 🇮🇹 i like programming, made 3d models with my 3D printer and other things.<br>
-I have a diploma in maintenance and technical assistance (achieved in 2019).<br>
+I have a graduation📚 in maintenance and technical assistance (achieved in 2019).<br>
+Available in learning new programming languages!😆<br>
 
 Below I leave other information about myself.
 
