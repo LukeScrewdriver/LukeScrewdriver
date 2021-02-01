@@ -9,8 +9,10 @@
 
 ## ⚙️ Hobby <a name = "hobby"></a>
 
+- Programming
 - Home automation
 - Swimming
+- 2D/3D design
 - 3D printing
 
 
@@ -19,6 +21,8 @@
 - [WPF](https://visualstudio.microsoft.com/it/vs/features/wpf/)
 - [C#](https://docs.microsoft.com/it-it/dotnet/csharp/)
 - [C Arduino](https://www.arduino.cc/reference/en/)
+- SCL - Siemens PLC
+- Ladder - Siemens PLC
 
 
 ## 💾 Organizations <a name = "org"></a>
